@@ -1,0 +1,14 @@
+{
+    "cold_weather": "ısıtıcıyı_aç",
+    "hot_weather": "klimayı_aç",
+    "no_one_home": "tüm_cihazları_kapat",
+    "dark_room": "ışıkları_aç",
+    "bright_room": "ışıkları_kapat",
+    "sleep_time": "perdeleri_kapat",
+    "wake_time": "perdeleri_aç",
+    "wake_up_time": "perdeleri_aç",
+    "hot_enough": "ısıtıcıyı_kapat",
+    "cold_enough": "klimayı_kapat",
+    "leaving_home": "kapıyı_kilitle",
+    "arriving_home": "kapıyı_aç"
+}
